@@ -1,0 +1,17 @@
+div {
+    padding: 20px 10px;
+}
+
+input, textarea {
+    width: 100%;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+textarea {
+    height: 200px;
+}
+
+button {
+    margin: 10px;
+}
